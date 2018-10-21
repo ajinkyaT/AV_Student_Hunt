@@ -20,6 +20,6 @@ statsmodel 0.8.0 <br/>
 
 ### Resources:
 
-[A Note on Tweedie](https://www.r-bloggers.com/a-note-on-tweedie/)
-[Tweedie Distribution: Definition and Examples](https://www.statisticshowto.datasciencecentral.com/tweedie-distribution/)
-[Tweedie distribution](https://en.wikipedia.org/wiki/Tweedie_distribution)
+[A Note on Tweedie](https://www.r-bloggers.com/a-note-on-tweedie/)<br/>
+[Tweedie Distribution: Definition and Examples](https://www.statisticshowto.datasciencecentral.com/tweedie-distribution/)<br/>
+[Tweedie distribution](https://en.wikipedia.org/wiki/Tweedie_distribution)<br/>
